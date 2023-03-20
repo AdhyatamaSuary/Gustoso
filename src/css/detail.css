@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+};
+
+.back {
+    
+}
+
+body {
+    background-image: none;
+    background-repeat: no-repeat;
+}
+
+.splitkiri {
+    width: 17%;
+}
+
+.splittengah {
+    width: 53%;
+}
+
+.desc {
+    color: #484848;
+    
+}
+
+.rating {
+    border-bottom: 1px solid;
+    width: 400px;
+}
+
+.deskripsi {
+    height: 187px;
+    border-bottom: 1px solid;
+}
+
+
+
+.bahan {
+    padding: 20px;
+    border: 1px transparent;
+    box-shadow: 5px 5px 5px 10px rgba(0, 0, 0, 0.087);
+}
+
+.bor {
+    border-bottom:1px solid ;
+    border-style: dashed;
+    width: 200px;
+    padding: 8px;
+    margin: 8px;
+}
+
+.bor2 {
+    padding: 8px;
+    margin: 8px;
+}
+
+.how {
+    padding: 20px;
+    border: 1px transparent;
+    box-shadow: 5px 5px 5px 10px rgba(0, 0, 0, 0.087);
+}
+
+.des {
+    border-bottom:1px solid ;
+    border-style: dashed;
+    width: 400px;
+    padding: 8px;
+    margin: 8px;
+}
+
+.des2 {
+    padding: 8px;
+    margin: 8px;
+}
+
+.splitkanan {
+    width: 30%;
+    
+}
+
+.star {
+    border: 1px transparent;
+    box-shadow: 5px 5px 5px 10px rgba(0, 0, 0, 0.087);
+}
+
+.reting2 {
+    background-color: #B0B0B0;
+}
+
+.input {
+    background-color: white;
+    height: 35px;
+    border-radius: 10px;
+    padding: 13px;
+    border: #B0B0B0 1px solid;
+    box-shadow: #B0B0B0 5px solid;
+}
+
+.input::placeholder {
+    height: 20px;
+    width: 100px;
+    color: #B0B0B0;
+}
+
+.footer {
+    height: 20px;
+    color : transparent;
+}

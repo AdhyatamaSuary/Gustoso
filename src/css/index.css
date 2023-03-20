@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: var(--body-font);
+};
+
+.back {
+    height: 100vh   ;
+}
+
+body {
+    background: url(../image/gus/land.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
